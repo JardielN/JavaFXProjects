@@ -1,6 +1,6 @@
 /*
 Binding the References of List Properties
- */
+
 package com.jdojo.collections;
 
 import javafx.beans.property.ListProperty;
@@ -51,3 +51,4 @@ public class BindingListReference {
         System.out.println("---------------------------");
     }
 }
+*/
